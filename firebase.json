@@ -1,0 +1,21 @@
+{
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      { "source": "/index", "destination": "/index.html" },
+      { "source": "/about", "destination": "/about.html" },
+      { "source": "/contact", "destination": "/contact.html" },
+      { "source": "/our-services", "destination": "/our-services.html" },
+      { "source": "/portfolio", "destination": "/portfolio.html" },
+      { "source": "/destination-representation", "destination": "/destination-representation.html" },
+      { "source": "/experience-representation", "destination": "/experience-representation.html" },
+      { "source": "/dmc-representation", "destination": "/dmc-representation.html" },
+      { "source": "/hotel-representation", "destination": "/hotel-representation.html" }
+    ]
+  }
+}
