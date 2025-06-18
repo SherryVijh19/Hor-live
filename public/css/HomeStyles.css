@@ -592,8 +592,8 @@ a{
   .custom-section-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 40px;
-    background-color: #f9f9f9;
+    gap: 80px;
+    background-color: #f2f1f1;
     align-items: center;
     justify-content: center;
     border-radius: 12px;
@@ -614,7 +614,7 @@ a{
 
   .custom-text-stats-wrapper {
     flex: 1 1 300px;
-    max-width: 600px;
+    max-width: 650px;
     display: flex;
     flex-direction: column;
     gap: 20px;
