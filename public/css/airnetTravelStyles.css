@@ -170,7 +170,7 @@ a{
   }
 
   .route-description {
-    font-size: 16px;
+    font-size: 18px;
     color: #163F4E;
     line-height: 1.6;
     margin-bottom: 2rem;
@@ -324,10 +324,11 @@ a{
   }
 
   .barrier-section p {
-    font-size: 16px;
+    font-size: 18px;
     color: #fff;
     margin-bottom: 30px;
     max-width: 600px;
+    line-height: 1.6;
   }
 
   .barrier-content {
@@ -772,7 +773,7 @@ a{
   }
 
   .cta-subtext {
-    font-size: 0.9rem;
+    font-size: 15px;
     color: #d0d9dc;
     margin-top: 30px;
   }

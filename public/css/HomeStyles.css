@@ -627,7 +627,7 @@ a{
   }
 
   .custom-subheading {
-    font-size: 1.1rem;
+    font-size: 18px;
     color: #666;
     margin: 0;
   }
@@ -779,7 +779,7 @@ a{
   }
 
   .cta-subtext {
-    font-size: 0.9rem;
+    font-size: 15px !important;
     color: #d0d9dc;
     margin-top: 30px;
   }

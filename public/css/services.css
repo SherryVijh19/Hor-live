@@ -126,7 +126,7 @@ a{
     flex: 1 1 500px;
     padding: 20px;
     /* color: #ffffff; */
-    font-family: Arial, sans-serif;
+    /* font-family: Arial, sans-serif; */
   }
 
   .zigzag-text-x29 h2 {
@@ -139,13 +139,13 @@ a{
     font-size: 18px;
     /* color: white; */
     line-height: 1.6;
-    font-family: Arial, sans-serif;
+    font-family: Alef, sans-serif;
   }
 
   .zigzag-text-x29 ul{
     font-size: 18px;
-    /* color: white; */
-    line-height: 1.6;
+  line-height: 1.6;
+  font-family: Alef, sans-serif;
 
   }
 
@@ -341,9 +341,10 @@ a{
   }
 
   .cta-subtext {
-    font-size: 0.9rem;
+    font-size: 15px !important;
     color: #d0d9dc;
     margin-top: 30px;
+    font-family: 'Alef', sans-serif;
   }
 
   @media (max-width: 600px) {
@@ -599,7 +600,7 @@ a{
   font-size: 15px;
   color: #2c3e50;
   line-height: 1.5;
-  font-family: Arial, sans-serif;
+  /* font-family: Arial, sans-serif; */
 }
 
 /* Optional icon or emoji circle */
@@ -620,7 +621,7 @@ a{
       .promotion-section {
         background: #fff;
         padding: 45px 20px;
-        font-family: "Segoe UI", sans-serif;
+        /* font-family: "Segoe UI", sans-serif; */
         color: #2c3e50;
       }
 
@@ -758,7 +759,6 @@ a{
 
 .section-title {
   font-size: 32px;
-  font-weight: bold;
 }
 
 .underline {
