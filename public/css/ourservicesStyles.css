@@ -36,7 +36,7 @@ a{
 
 .nav-pills .nav-link:hover,
 .nav-pills .nav-link:focus {
-  color: #A26D32  !important;
+  color: #fff  !important;
   background-color: #A26D32  !important;
   text-decoration-color: #A26D32  !important;
   border-color: #A26D32  !important;
