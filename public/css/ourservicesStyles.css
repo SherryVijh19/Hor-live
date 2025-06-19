@@ -84,7 +84,8 @@ a{
   @media (max-width: 480px) {
     .custom-button-holder92 {
       padding: 10px 20px;
-      font-size: 14px;
+      font-size: 36px;
+    line-height: 1;
     }
   }
 
