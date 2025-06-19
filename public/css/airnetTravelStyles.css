@@ -670,18 +670,17 @@ a{
   }
 
   .testimonial-avatar-box {
-    width: 210px;
-    height: 204px;
+    width: 170px;
+    height: 190px;
     background: url('https://via.placeholder.com/160x160?text=Photo') center center/cover no-repeat;
     border-radius: 12px;
-    margin: 0 auto 10px auto;
+    margin: 0 auto 0 auto;
   }
 
   .testimonial-author-name {
     font-weight: 600;
     font-size: 16px;
     color: #0f172a;
-    margin-bottom: 4px;
   }
 
   .testimonial-author-role {
@@ -732,10 +731,6 @@ a{
  }
 
   }
-
-
-
-
 
   .cta-wrapper{
     max-width: 1250px; /* Adjust section width here */

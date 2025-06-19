@@ -338,6 +338,7 @@ a{
     justify-content: center;
     padding: 40px 20px;
     box-sizing: border-box;
+    
   }
   
   .tabSection-heading {
@@ -634,7 +635,7 @@ a{
 
   .custom-read-more-btn {
     align-self: center;
-     padding: 12px 30px;
+     padding: 10px 30px;
     background-color: #7A5429 !important;
     color: white;
     text-decoration: none;
@@ -700,10 +701,11 @@ a{
     border-radius: 10px;
     text-align: center;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+    height: 105px;
   }
 
   .custom-stat-number {
-    font-size: 1.5rem;
+    font-size: 21px;
     font-weight: bold;
         color: #163f4e;
     /* color: #8b7153; */
@@ -711,8 +713,9 @@ a{
 
   .custom-stat-label {
     margin-top: 5px;
-    font-size: 1.05rem;
+    font-size: 13px;
     color: #7A5429;
+    line-height: 1.5;
   }
 
   @media (max-width: 768px) {
@@ -936,7 +939,7 @@ a{
   /* Modal with animation */
   .mymodal {
     /* background: white; */
-    padding: 20px;
+    /* padding: 20px; */
     border-radius: 10px;
     width: 100%;
     max-width: 600px;
@@ -950,8 +953,8 @@ a{
   /* Close button */
   .close-button {
     position: absolute;
-    top: 30px;
-    right: 60px;
+    top: 15px;
+    right: 15px;
     font-size: 24px;
     color: #000;
     cursor: pointer;
@@ -959,7 +962,7 @@ a{
   
   @media (max-width: 480px) {
     .modal {
-      width: 90%;
+      width: 50%;
       padding: 15px;
     }
   }
@@ -967,7 +970,7 @@ a{
   .contact-form-z92 {
     flex: 1 1 45%;
     background-color: #aaa48b;
-    padding: 30px 20px;
+    /* padding: 30px 20px; */
     border-radius: 20px;
     max-width: 600px;
     height: 100%;

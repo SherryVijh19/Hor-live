@@ -754,11 +754,12 @@ a{
 .services-section {
   padding: 60px 20px;
   text-align: center;
-  background-color: #e1eefa;
+  background-color: #000;
 }
 
 .section-title {
   font-size: 32px;
+  color: #fff;
 }
 
 .underline {
