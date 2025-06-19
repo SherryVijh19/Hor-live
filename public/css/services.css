@@ -131,7 +131,7 @@ a{
 
   .zigzag-text-x29 h2 {
     /* color: white; */
-    font-size: 36px;
+    font-size: 33px;
     margin-bottom: 20px;
   }
 
@@ -754,7 +754,7 @@ a{
 .services-section {
   padding: 60px 20px;
   text-align: center;
-  background-color: beige;
+  background-color: #e1eefa;
 }
 
 .section-title {

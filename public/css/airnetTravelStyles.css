@@ -78,6 +78,7 @@ a{
     font-size: 16px;
     display: inline-block;
     margin-bottom: 20px;
+    font-weight: bold;
     /* opacity: 0.7; */
   }
 
@@ -305,6 +306,7 @@ a{
     padding: 40px;
     border-radius: 12px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    text-align: center;
   }
 
   .barrier-tag {
@@ -314,6 +316,7 @@ a{
     border-radius: 20px;
     font-size: 16px;
     display: inline-block;
+    font-weight: bold;
   }
 
   .barrier-section h2 {
@@ -463,6 +466,7 @@ a{
     border-radius: 20px;
     font-size: 16px;
     margin-bottom: 20px;
+    font-weight: bold;
   }
   
   .growth-strategy-heading {
@@ -491,6 +495,7 @@ a{
     gap: 12px;
     border: 1px solid #f3f4f6;
     transition: transform 0.2s ease;
+    height: 322px;
   }
   
   .growth-strategy-card:hover {
@@ -527,7 +532,7 @@ a{
   
   .growth-strategy-footer {
     border-top: 1px solid #a4a7ad;
-    font-size: 13px;
+    font-size: 10.5px;
     font-weight: 500;
     color: #8c6043;
     margin-top: auto;
@@ -537,6 +542,7 @@ a{
     max-width: 1200px;
     margin: auto;
     padding: 20px;
+    text-align: center;
   }
 
   .kr-header {
@@ -548,6 +554,7 @@ a{
     font-size: 16px;
     display: inline-block;
     margin-bottom: 20px;
+    font-weight: bold;
   }
 
   .kr-grid {
@@ -628,9 +635,9 @@ a{
 
 
   .testimonial-box-wrap {
-    max-width: 1200px;
+    max-width: 1160px;
     margin: 0 auto;
-    padding: 30px 125px;
+    padding: 24px 125px;
     background-color: #f5f6f8;
     border-radius: 16px;
   }
@@ -658,12 +665,12 @@ a{
   }
 
   .testimonial-avatar-area {
-    flex: 0 0 180px;
+    flex: 0 0 210px;
     text-align: center;
   }
 
   .testimonial-avatar-box {
-    width: 180px;
+    width: 210px;
     height: 204px;
     background: url('https://via.placeholder.com/160x160?text=Photo') center center/cover no-repeat;
     border-radius: 12px;
