@@ -3574,7 +3574,7 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 		border-radius: 0;
 		border: 0;
 		clear: both;
-		display: none;
+		/* display: none; */
 		float: none;
 		position: static;
 		width: 100%;
